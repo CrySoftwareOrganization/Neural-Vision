@@ -1,6 +1,0 @@
-namespace App
-{
-    void App()
-    {
-    }
-}
